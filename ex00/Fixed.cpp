@@ -2,7 +2,7 @@
 #include <iostream>
 
 // inizializzazione di _value a 0
-Fixed::Fixed() : _value(1) {
+Fixed::Fixed() : _value(0) {
     std::cout << "Default constructor called" << std::endl;
 }
 
